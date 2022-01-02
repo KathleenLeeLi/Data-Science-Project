@@ -2,7 +2,7 @@
 Here are some of my Data Science related projects
 
 
--Pawpularity  https://www.kaggle.com/c/petfinder-pawpularity-score
+# 1. Kaggle-Pawpularity  https://www.kaggle.com/c/petfinder-pawpularity-score
 
 Data Description
 
@@ -76,4 +76,5 @@ Info - Custom-added text or labels (i.e. pet name, description).
 Blur - Noticeably out of focus or noisy, especially for the pet’s eyes and face. For Blur entries, “Eyes” column is always set to 0.
 
 
--Predict Future Sales  https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+
+# 2. Kaggle-Predict Future Sales  https://www.kaggle.com/c/competitive-data-science-predict-future-sales

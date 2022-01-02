@@ -1,4 +1,4 @@
-# Kaggle
+# Project
 Here are some of my Data Science related projects
 
 
